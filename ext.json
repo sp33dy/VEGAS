@@ -1,0 +1,16 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Portsmouth, England",
+        "social": {
+            "twitter_handle": "VEGAS_ADA_Pool",
+            "telegram_handle": "VegasAda",
+        },
+        "about": {
+            "me": "An I/T Architect of 30+ years experience",
+            "server": "Dedicated bare metal servers in a private UK datacentre",
+            "company": "HOSKY Dev"
+        }
+    }
+}
